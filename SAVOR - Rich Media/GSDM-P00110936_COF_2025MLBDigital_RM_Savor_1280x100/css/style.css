@@ -1,0 +1,289 @@
+img,
+div,
+ft-click,
+ft-video-controls {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+body {
+  color: #000;
+  margin: 0;
+
+}
+
+.bannerSize {
+  width: 1280px;
+  height: 100px;
+}
+
+#banner {
+  overflow: hidden;
+}
+
+#cover {
+  background-color: #f4f4f4;
+  top: 0;
+  z-index: 949;
+}
+
+.clickthrough {
+  cursor: pointer;
+  z-index: 800;
+}
+
+.defaultBorder {
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  display: block;
+  pointer-events: none;
+  z-index: 850;
+}
+
+.defaultSize {
+  height: 100px;
+  width: 1280px;
+}
+
+.expandSize {
+  height: 418px;
+  width: 1280px;
+}
+
+ft-default {
+  background-color: #013D5B;
+  height: 100px;
+  text-align: center;
+  width: 1280px;
+}
+
+.ballCont {
+  height: 60px;
+  left: 1280px;
+  top: 0;
+  width: 50px;
+  z-index: 20;
+}
+
+#ball {
+  height: 50px;
+  left: 0;
+  top: 20px;
+  width: inherit;
+}
+
+#shadow {
+  height: 12px;
+  left: 0;
+  opacity: 0.8;
+  top: 80px;
+  width: 58px;
+
+}
+
+/* frame 1 */
+#txt1Cont {
+  height: 90px;
+  left: 0px;
+  overflow: hidden;
+  top: 0px;
+  width: 1270px;
+  z-index: 10;
+}
+
+#txt1a {
+  height: 30px;
+  left: 232px;
+  top: 34px;
+  width: 941px;
+}
+
+#rArrow {
+  height: 28px;
+  left: 1221px;
+  top: 36px;
+  width: 18px;
+}
+
+/* Collapsed Cap One Logo ------------ */
+.capOneLogo {
+  height: 58px;
+  left: 26px;
+  top: 23px;
+  transform: scale(0.96);
+  transform-origin: top left;
+  width: 157px;
+  z-index: 5;
+}
+
+#redSwoop {
+  height: 58px;
+  left: 42px;
+  top: 0;
+  width: 109px;
+}
+
+#capital {
+  height: 24px;
+  left: 0;
+  top: 24px;
+  width: 107px;
+}
+
+#one {
+  height: 24px;
+  left: 106px;
+  top: 24px;
+  width: 50px;
+}
+
+/* Expanded Cap One Logo ------------ */
+.expCapOneLogo {
+  height: 70px;
+  left: 33px;
+  top: 33px;
+  width: 197px;
+  z-index: 800;
+}
+
+.expCapOneLogo #expRedSwoop {
+  height: 70px;
+  left: 51px;
+  top: 0;
+  width: 137px;
+}
+
+.expCapOneLogo #expCapital {
+  height: 29px;
+  left: 0;
+  top: 29px;
+  width: 134px;
+}
+
+.expCapOneLogo #expOne {
+  height: 29px;
+  left: 130px;
+  top: 29px;
+  width: 63px;
+}
+
+#txt2a {
+  height: 23px;
+  left: 34px;
+  top: 178px;
+  width: 397px;
+  z-index: 201;
+}
+
+#txt2b {
+  height: 29px;
+  left: 0px;
+  top: 208px;
+  width: 375px;
+  z-index: 202;
+}
+
+#rArrowExp {
+  height: 21px;
+  left: 495px;
+  top: 199px;
+  width: 13px;
+}
+
+#mlbLockupCont {
+  height: 63px;
+  left: 0;
+  overflow: hidden;
+  top: 334px;
+  width: 529px;
+}
+
+#mlbLockup {
+  height: inherit;
+  left: 24px;
+  width: 372px;
+}
+
+.ballContExp {
+  height: 110px;
+  left: 530px;
+  top: 317px;
+  width: 69px;
+  z-index: 220;
+}
+
+#ballExp {
+  height: 69px;
+  top: 0;
+  left: 0;
+  width: inherit;
+}
+
+#shadowExp {
+  height: 15px;
+  left: -1px;
+  opacity: 0.6;
+  top: 78px;
+  width: 76px;
+}
+
+ft-expand {
+  background-color: #013D5B;
+  height: 418px;
+  margin-top: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 1280px;
+}
+
+#close {
+  right: 0;
+  top: 0;
+  z-index: 850;
+}
+
+.expandBtn,
+.closeBtn {
+  height: 20px;
+  right: 1px;
+  top: 1px;
+  transform: rotate(180deg);
+  width: 20px;
+  z-index: 850;
+}
+
+.closeBtn {
+  transform: rotate(0deg);
+}
+
+.videoCont {
+  height: 418px;
+  left: 529px;
+  top: 0;
+  width: 751px;
+  z-index: 830;
+}
+
+#vidPoster {
+  height: inherit;
+  left: 0;
+  width: inherit;
+  z-index: 831;
+}
+
+#video1 {
+  height: inherit;
+  left: 0;
+  position: absolute;
+  width: inherit;
+}
+
+#tap {
+  margin: 0;
+  padding-top: 17.5px;
+}
