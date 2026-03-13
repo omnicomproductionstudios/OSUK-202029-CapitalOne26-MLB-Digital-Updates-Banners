@@ -32,7 +32,7 @@ function init(){
     
   }); 
 
-  mainTL.from('.capOneLogo', 0.4,{x:"-=232", ease:'power1.out', overwrite:0}, 0.25)
+    mainTL.from('.capOneLogo', 0.4,{x:"-=232", ease:'power1.out', overwrite:0}, 0.25)
         .from(redSwoop, 0.25,{alpha:0, scale:"4", x:"-=30", y:"+=40", transformOrigin:"100% 50%", ease:'power1.out', overwrite:0}, 0.5)
         .from(capital, 0.25,{alpha:0, y:"+=10", ease:'power1.inOut', overwrite:0}, 0.5)
         .from(one, 0.25,{alpha:0, y:"+=10", ease:'power1.inOut', overwrite:0}, 0.55)

@@ -188,8 +188,9 @@ ft-default{
 }
 #mlbLockup{
   height: inherit;
-  left: 28px;
+  left: 26px;
   width: 327px;
+  top: -1px;
 }
 
 .ballContExp{
