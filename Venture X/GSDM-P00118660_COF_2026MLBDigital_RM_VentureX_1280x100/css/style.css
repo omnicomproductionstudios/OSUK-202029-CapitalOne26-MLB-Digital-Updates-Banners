@@ -92,9 +92,9 @@ ft-default{
 /* Collapsed Cap One Logo ------------ */
 .capOneLogo{
   height: 58px;
-  left: 26px;
-  top: 23px;
-  transform: scale(0.96);
+  left: 18px;
+  top: 18px;
+  transform: scale(1.11);
   transform-origin: top left;
   width: 157px;
   z-index: 5;
@@ -180,7 +180,7 @@ ft-default{
   width: 529px;
 }
 #mlbLockup{
-  height: inherit;
+  height: 55px;
   left: 25px;
   width: 322px;
 }

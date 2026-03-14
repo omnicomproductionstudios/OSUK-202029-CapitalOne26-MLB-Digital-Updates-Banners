@@ -144,9 +144,9 @@ ft-default {
 /* Expanded Cap One Logo ------------ */
 .expCapOneLogo {
   height: 70px;
-  left: 25px;
-  top: 34px;
-  transform: scale(0.48);
+  left: 22px;
+  top: 33px;
+  transform: scale(0.51);
   transform-origin: top left;
   width: 197px;
   z-index: 800;

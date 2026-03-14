@@ -99,9 +99,9 @@ ft-default{
 /* Collapsed Cap One Logo ------------ */
 .capOneLogo{
   height: 58px;
-  left: 24px;
-  top: 21px;
-  transform: scale(0.82);
+  left: 22px;
+  top: 20px;
+  transform: scale(0.84);
   transform-origin: top left;
   width: 157px;
   z-index: 5;
@@ -128,9 +128,9 @@ ft-default{
 /* Expanded Cap One Logo ------------ */
 .expCapOneLogo{
   height: 70px;
-  left: 25px;
-  top: 34px;
-  transform: scale(0.48);
+  left: 23px;
+  top: 33px;
+  transform: scale(0.50);
   transform-origin: top left;
   width: 197px;
   z-index: 800;
@@ -201,7 +201,7 @@ ft-default{
 
 .ballContExp{
   height: 110px;
-  left: 278px;
+  left: 285px;
   top: 181px;
   width: 52px;
   z-index: 220;
@@ -251,9 +251,9 @@ ft-expand{
 
 .videoCont{
   height: 250px;
-  left: 278px;
+  left: 283px;
   top: 0;
-  width: 449px;
+  width: 445px;
   z-index: 830;
 }
 #vidPoster{

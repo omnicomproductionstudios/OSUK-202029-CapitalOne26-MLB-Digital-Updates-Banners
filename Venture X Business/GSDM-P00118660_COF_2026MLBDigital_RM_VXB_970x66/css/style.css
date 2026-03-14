@@ -96,10 +96,10 @@ ft-default {
 }
 
 #txt1a {
-  height: 22px;
-  left: 201px;
+  height: 20px;
+  left: 199px;
   top: 23px;
-  width: 643px;
+  width: 595px;
 }
 
 #rArrow {
@@ -112,9 +112,9 @@ ft-default {
 /* Collapsed Cap One Logo ------------ */
 .capOneLogo {
   height: 58px;
-  left: 20px;
-  top: 11px;
-  transform: scale(0.76);
+  left: 18px;
+  top: 10px;
+  transform: scale(0.78);
   transform-origin: top left;
   width: 157px;
   z-index: 5;
@@ -144,9 +144,9 @@ ft-default {
 /* Expanded Cap One Logo ------------ */
 .expCapOneLogo {
   height: 70px;
-  left: 50px;
-  top: 22px;
-  transform: scale(0.61);
+  left: 49px;
+  top: 21px;
+  transform: scale(0.65);
   transform-origin: top left;
   width: 197px;
   z-index: 800;

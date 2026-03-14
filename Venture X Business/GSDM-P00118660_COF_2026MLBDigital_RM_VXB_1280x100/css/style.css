@@ -96,10 +96,10 @@ ft-default {
 }
 
 #txt1a {
-  height: 28px;
-  left: 256px;
-  top: 35px;
-  width: 827px;
+  height: 26px;
+  left: 255px;
+  top: 36px;
+  width: 769px;
 }
 
 #rArrow {
@@ -112,9 +112,9 @@ ft-default {
 /* Collapsed Cap One Logo ------------ */
 .capOneLogo {
   height: 58px;
-  left: 26px;
-  top: 23px;
-  transform: scale(0.96);
+  left: 24px;
+  top: 22px;
+  transform: scale(0.97);
   transform-origin: top left;
   width: 157px;
   z-index: 5;
@@ -213,9 +213,9 @@ ft-default {
 }
 
 #mlbLockup {
-  height: inherit;
+  height: 66px;
   left: 54px;
-  width: 385px;
+  width: 386px;
 }
 
 .ballContExp {

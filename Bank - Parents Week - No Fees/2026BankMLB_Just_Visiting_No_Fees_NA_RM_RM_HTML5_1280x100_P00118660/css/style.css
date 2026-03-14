@@ -151,9 +151,9 @@ ft-default {
 /* Expanded Cap One Logo ------------ */
 .expCapOneLogo {
   height: 70px;
-  left: 73px;
-  top: 33px;
-  transform: scale(.86);
+  left: 69px;
+  top: 32px;
+  transform: scale(.91);
   transform-origin: top left;
   width: 197px;
   z-index: 800;
@@ -227,7 +227,7 @@ ft-default {
 
 .ballContExp {
   height: 110px;
-  left: 530px;
+  left: 535px;
   top: 317px;
   width: 69px;
   z-index: 220;
@@ -280,9 +280,9 @@ ft-expand {
 
 .videoCont {
   height: 418px;
-  left: 529px;
+  left: 535px;
   top: 0;
-  width: 751px;
+  width: 743px;
   z-index: 830;
 }
 
