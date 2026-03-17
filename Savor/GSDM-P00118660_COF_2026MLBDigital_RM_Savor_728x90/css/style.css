@@ -220,7 +220,7 @@ ft-default {
 
 .ballContExp {
   height: 110px;
-  left: 278px;
+  left: 285px;
   top: 181px;
   width: 52px;
   z-index: 220;
@@ -273,9 +273,9 @@ ft-expand {
 
 .videoCont {
   height: 250px;
-  left: 280px;
+  right: 0px;
   top: 0;
-  width: 449px;
+  width: 445px;
   z-index: 830;
 }
 

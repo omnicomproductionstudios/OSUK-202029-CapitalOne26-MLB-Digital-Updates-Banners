@@ -19,7 +19,7 @@ body{
 }
 
 .defaultBorder{
-  border: 1px solid ©#000000;
+  border: 1px solid #000000;
   box-sizing: border-box;
   display: block;
   pointer-events: none;

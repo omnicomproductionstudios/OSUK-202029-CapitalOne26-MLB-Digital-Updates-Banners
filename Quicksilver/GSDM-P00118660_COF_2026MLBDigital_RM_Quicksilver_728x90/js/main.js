@@ -57,7 +57,7 @@ function expand(){
               .from(expCapital, 0.4,{alpha:0, y:"+=10", ease:'power1.inOut', overwrite:0}, _f1)
               .from(expOne, 0.4,{alpha:0, y:"+=10", ease:'power1.inOut', overwrite:0}, _f1+0.05)
 
-              .from('.ballContExp', 1,{x:"-=335", ease: "none"}, _f1+0.25)
+              .from('.ballContExp', 1,{x:"-=340", ease: "none"}, _f1+0.25)
               .to(ballExp, 2,{rotation:"+=1440", ease: "none"}, '<')
                  
       expandedTL.restart();

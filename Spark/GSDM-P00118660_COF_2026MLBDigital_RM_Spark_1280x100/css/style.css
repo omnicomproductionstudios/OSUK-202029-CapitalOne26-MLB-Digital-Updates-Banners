@@ -195,7 +195,7 @@ ft-default{
 
 .ballContExp{
   height: 110px;
-  left: 530px;
+  left: 540px;
   top: 317px;
   width: 69px;
   z-index: 220;
@@ -245,9 +245,9 @@ ft-expand{
 
 .videoCont{
   height: 418px;
-  left: 529px;
+  right: 0px;
   top: 0;
-  width: 751px;
+  width: 743px;
   z-index: 830;
 }
 #vidPoster{
